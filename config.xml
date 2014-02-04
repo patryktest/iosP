@@ -9,4 +9,5 @@
     </author>
     <content src="index.html" />
     <access origin="*" />
+    <gap:plugin name="com.megster.cordova.bluetoothserial" />
 </widget>
