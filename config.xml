@@ -7,7 +7,7 @@
     <author email="martin.nigel@transense.co.uk" href="http://transense.co.uk/">
         
     </author>
-    <gap:plugin name="com.phonegap.plugins.barcodescanner" />
+    <gap:plugin name="com.megster.cordova.bluetoothserial" />
 
     <content src="index.html" />
     <access origin="*" />
